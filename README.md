@@ -1,6 +1,8 @@
 ## <ins>Healthcare Coverage Data Visualization </ins> 
 ##### By Maria Funmi A Frazier, Mitch Murray, and Yvens Joseph
 
+## Link to Project: [Healthcare Coverage Data Visualization](https://mafrazier.github.io/Healthcare-Coverage-Data-Visualization/Part_Two_Create_html/index.html)
+
 #### The objective of this assignment is to visually depict variations in Health Coverage across the United States. These variations will be analyzed based on factors such as gender, race/ethnicity, and income in relation to the origin of coverage. We hope that this research will provide insights into any existing weaknesses in Healthcare Coverage, fostering a better understanding of the current landscape.
 
 #### The data for this visual depiction was collect from KFF, which is an independent source for health policy research, polling, and news. The main reason why KFF is the source is because the ethical mean that their work and policy are done. Based on their [About US,](https://www.kff.org/about-us/) "KFF is the independent source for health policy research, polling, and journalism. Our mission is to serve as a nonpartisan source of information for policymakers, the media, the health policy community, and the public." Looking through their data used for this project, it can be said that the information collected meets data ethical standards as none of the data collected violates privacy issues.  More detailed information that is dataset is collected from is available at [State Health Facts: Health Coverage & Uninsured](https://www.kff.org/state-category/health-coverage-uninsured/ ). KFF. (2023, October 27.).
