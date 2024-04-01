@@ -1,4 +1,5 @@
-## <ins>Healthcare Coverage Data Visualization </ins> by Maria Funmi A Frazier, Mitch Murray, and Yvens Joseph
+## <ins>Healthcare Coverage Data Visualization </ins> 
+by Maria Funmi A Frazier, Mitch Murray, and Yvens Joseph
 
 #### The objective of this assignment is to visually depict variations in Health Coverage across the United States. These variations will be analyzed based on factors such as gender, race/ethnicity, and income in relation to the origin of coverage. We hope that this research will provide insights into any existing weaknesses in Healthcare Coverage, fostering a better understanding of the current landscape.
 
